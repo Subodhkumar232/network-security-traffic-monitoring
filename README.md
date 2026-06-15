@@ -47,31 +47,31 @@ Capturing network packets for analysis. It can be used for troubleshooting or ma
 
 ### Screenshot 1 – Wireshark Home Screen
 
-![Wireshark Home](Screenshots/screenshot1_wireshark_home.png)
+![Wireshark Home](screenshot1_wireshark_home.png)
 
 ### Screenshot 2 – Live Packet Capture
 
-![Live Capture](Screenshots/screenshot2_live_capture.png)
+![Live Capture](screenshot2_live_capture.png)
 
 ### Screenshot 3 – DNS Traffic Analysis
 
-![DNS Analysis](Screenshots/screenshot3_dns_analysis.png)
+![DNS Analysis](screenshot3_dns_analysis.png)
 
 ### Screenshot 4 – HTTPS/TLS Traffic
 
-![HTTPS Traffic](Screenshots/screenshot4_https_tls.png)
+![HTTPS Traffic](screenshot4_https_tls.png)
 
 ### Screenshot 5 – ICMP Traffic
 
-![ICMP Traffic](Screenshots/screenshot5_icmp_ping.png)
+![ICMP Traffic](screenshot5_icmp_ping.png)
 
 ### Screenshot 6 – Ping Test in Command Prompt
 
-![Ping Test](Screenshots/screenshot6_ping_google_cmd.png)
+![Ping Test](screenshot6_ping_google_cmd.png)
 
 ### Screenshot 7 – TCP Communication
 
-![TCP Traffic](Screenshots/screenshot7_tcp_handshake.png)
+![TCP Traffic](screenshot7_tcp_handshake.png)
 
 ## Traffic Analysis Observations
 
